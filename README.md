@@ -1,342 +1,250 @@
-# 🚀 Chandan Maurya - Developer Portfolio
+<div align="center">
 
-A modern, responsive, and interactive portfolio built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS** to showcase my work in **XR (AR/VR/MR)**, **Backend Development**, **AI**, and **Digital Twin** technologies.
+# 👋 Hey there, I'm Chandan Maurya
 
-> Designed to highlight enterprise-grade projects, technical expertise, and open-source contributions with a clean and modern user experience.
+### XR Engineer • Backend Developer • AI Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AR+%7C+VR+%7C+MR+Experiences;Creating+AI+Powered+Applications;Backend+Developer+with+Node.js;Digital+Twin+Developer;Always+Learning+Something+New" />
 
-## 🌐 Live Demo
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-🔗 Coming Soon
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</p>
 
-## ✨ Features
-
-- 🎨 Modern UI with Dark & Light Mode
-- ⚡ Built with Next.js 15 & React 19
-- 📱 Fully Responsive Design
-- 🎭 Smooth Animations using Framer Motion
-- 🌙 Theme Switching
-- 🖱️ Interactive Cursor Effects
-- 🚀 Performance Optimized
-- 📂 Dynamic Project Showcase
-- 📊 GitHub Statistics Integration
-- 📈 GitHub Contribution Graph
-- 📝 Blog Section
-- 📄 Resume Download
-- 📬 Contact Form
-- 🌐 SEO Optimized
-- ♿ Accessibility Friendly
-- 🔥 Fast Loading Experience
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 About Me
 
-## Frontend
+```javascript
+const chandan = {
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Shadcn UI
-- Lucide React
+    location: "India",
 
-## 3D & Graphics
+    role: "XR Engineer & Backend Developer",
 
-- Three.js
-- React Three Fiber
-- Drei
+    experience: "10+ Years",
 
-## Backend
+    currentlyLearning: [
+        "Node.js",
+        "TypeScript",
+        "System Design",
+        "AI Agents"
+    ],
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
+    expertise: [
+        "Unity",
+        "AR",
+        "VR",
+        "MR",
+        "Digital Twins",
+        "Backend APIs"
+    ],
 
-## Authentication
+    currentlyBuilding: [
+        "AI Powered XR Applications",
+        "Interactive eLearning",
+        "Enterprise Training Platforms",
+        "SaaS Products"
+    ],
 
-- JWT
-- bcrypt
-
-## APIs
-
-- REST API
-- GitHub API
-- Email API
-
-## Deployment
-
-- Vercel
-- GitHub Actions
-
----
-
-# 📁 Project Structure
-
-```
-portfolio/
-│
-├── app/
-├── components/
-│   ├── ui/
-│   ├── layout/
-│   ├── sections/
-│   └── animations/
-│
-├── hooks/
-├── lib/
-├── public/
-│   ├── images/
-│   ├── icons/
-│   └── resume/
-│
-├── styles/
-├── types/
-├── utils/
-└── README.md
+    lifePhilosophy:
+        "Build products that create real-world impact."
+}
 ```
 
 ---
 
-# 📸 Website Sections
+# ⚡ Tech Arsenal
 
-- Hero
-- About
-- Skills
-- Experience
-- Projects
-- Services
-- Open Source
-- GitHub Stats
-- Certifications
-- Blog
-- Contact
-- Footer
+## XR
 
----
+<p>
 
-# 🎯 Skills Showcase
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
 
-### XR Development
+</p>
 
 - Unity
 - C#
-- AR Foundation
-- Meta XR SDK
 - OpenXR
-- MRTK
+- AR Foundation
+- Meta Quest
 - Photon Fusion
 - Photon PUN
-- WebXR
+- XR Interaction Toolkit
 
-### Backend Development
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript"/>
+
+</p>
 
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
-- TypeScript
 - JWT
-- REST API
 - Socket.IO
-
-### AI
-
-- OpenAI API
-- AI Chatbots
-- AI Assistants
-- AI Automation
-- Prompt Engineering
-
-### Cloud
-
-- AWS
-- Vercel
-- GitHub Actions
+- REST API
 
 ---
 
-# 📂 Featured Projects
+## Frontend
 
-- 🥽 Medical VR Training Simulator
-- 🔥 Welding VR Simulator
-- 🏭 Industrial Safety Training
-- 🏫 School ERP Platform
-- 👟 Nike WebAR Campaign
-- 🌍 Digital Twin Platform
-- 📦 APK Management System
-- 📚 eLearning Platform
-- 🤖 AI-powered XR Applications
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+</p>
 
 ---
 
-# 🚀 Getting Started
+## Cloud
 
-Clone the repository
+<p>
 
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel"/>
 
-Navigate to the project directory
-
-```bash
-cd portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the development server
-
-```bash
-npm run dev
-```
-
-Open your browser
-
-```
-http://localhost:3000
-```
+</p>
 
 ---
 
-# 📦 Build
+# 🌟 What I'm Working On
 
-```bash
-npm run build
-```
+🚀 AI + XR Simulations
 
----
+🧠 AI Agents
 
-# ▶️ Start Production
+🥽 Medical VR
 
-```bash
-npm start
-```
+🏭 Industrial Training
 
----
+🎓 eLearning Platform
 
-# 🧹 Lint
+📦 SaaS Products
 
-```bash
-npm run lint
-```
+⚙️ Backend APIs
 
 ---
 
-# 🎨 Design Highlights
+# 💼 Featured Projects
 
-- Glassmorphism
-- Gradient Backgrounds
-- Animated Cards
-- Interactive Timeline
-- Hover Effects
-- Scroll Animations
-- Smooth Page Transitions
-- Responsive Layout
-- Modern Typography
-
----
-
-# 📈 GitHub Integration
-
-The portfolio automatically displays:
-
-- GitHub Profile
-- Public Repositories
-- Followers
-- Following
-- Contribution Graph
-- Language Statistics
-- Pinned Repositories
-- Recent Activity
+| Project | Description |
+|----------|-------------|
+| 🥽 Medical VR Simulator | Multiplayer VR Training Platform |
+| 🔥 Welding Simulator | Realistic Welding Assessment |
+| 🏭 Industrial Safety | Enterprise VR Training |
+| 🎓 eLearning Platform | AI-powered Learning Platform |
+| 📦 APK Manager | Enterprise Device Management |
+| 🌍 Digital Twin | Smart Factory Visualization |
 
 ---
 
-# 📬 Contact
+# 📊 GitHub Analytics
 
-Feel free to reach out for collaboration, freelance work, or exciting opportunities.
+<p align="center">
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 Email
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Open a Pull Request
+</p>
 
 ---
 
-# 🗺️ Roadmap
+# 🔥 GitHub Streak
 
-- [ ] Admin Dashboard
-- [ ] CMS Integration
-- [ ] Project Filtering
-- [ ] Search Functionality
-- [ ] Blog CMS
-- [ ] Internationalization (i18n)
-- [ ] Visitor Analytics
-- [ ] Testimonials
-- [ ] Project Case Studies
-- [ ] AI Chat Assistant
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📄 License
+# 📈 Contribution Graph
 
-This project is licensed under the MIT License.
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-# ⭐ Support
-
-If you like this project:
-
-- ⭐ Star the repository
-- 🍴 Fork it
-- 🛠️ Contribute
-- 📢 Share it with others
+</p>
 
 ---
 
-# 👨‍💻 Author
+# 🏆 GitHub Trophies
 
-## Chandan Maurya
+<p align="center">
 
-**XR Engineer • Backend Developer • AI Enthusiast**
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
 
-Building immersive AR/VR/MR experiences, scalable backend systems, AI-powered applications, and enterprise-grade digital solutions.
+</p>
 
-> *"Turning ideas into immersive digital experiences through code, creativity, and innovation."*
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💡 Development Philosophy
+
+> "Technology should solve problems, not create them."
+
+I enjoy building scalable software that combines immersive technology, AI, and modern backend architecture to create meaningful user experiences.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Backend Development
+- ✅ Build Production SaaS Products
+- ✅ Contribute to Open Source
+- ✅ Learn Kubernetes
+- ✅ Learn Microservices
+- ✅ Build AI Agents
+- ✅ Publish Technical Blogs
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building the future, one commit at a time."*
+
+</div>
