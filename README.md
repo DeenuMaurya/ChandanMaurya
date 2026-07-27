@@ -29,7 +29,7 @@
 
 # 👨‍💻 About Me
 
-- 🥽 XR Engineer with **10+ years** of experience
+- 🥽 XR Engineer with **13+ years** of experience
 - 🚀 Founder of **Nextechoasis Solutions**
 - 🤖 Building AI-powered immersive learning platforms
 - 💻 Currently learning Backend Development
