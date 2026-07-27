@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chandan Maurya
 
-### 🚀 XR Engineer | Backend Developer | AI Enthusiast | Founder @ Nextechoasis Solutions
+### 🚀 XR Engineer | Backend Developer | AI Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Unity+XR+Developer;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;AI+Agent+Developer;Spatial+Computing+Engineer;Building+Immersive+Learning+Platforms" />
 
