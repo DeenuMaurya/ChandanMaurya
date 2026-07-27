@@ -39,21 +39,48 @@
 
 # 🚀 Tech Stack
 
-## Languages
+## Languages 
 
-<p> <img height="32" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp"/> <img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img height="32" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/> <img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/> </p>
-Backend
-<p> <img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/> <img height="32" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/> <img height="32" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io"/> <img height="32" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> </p>
-Database
-<p> <img height="32" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/> <img height="32" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/> <img height="32" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/> </p>
-XR Development
-<p> <img height="32" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/> <img height="32" src="https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge"/> <img height="32" src="https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge"/> <img height="32" src="https://img.shields.io/badge/Photon-004480?style=for-the-badge"/> </p>
-AI
-<p> <img height="32" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/> <img height="32" src="https://img.shields.io/badge/AI%20Agents-0099ff?style=for-the-badge"/> <img height="32" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/> </p>
-Cloud
-<p> <img height="32" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/> <img height="32" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/> </p>
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+--- 
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## XR Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![OpenXR](https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge)
+![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge)
+
+--- 
+
+## AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0099ff?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) 
+
+--- 
+
 
 # 🌟 Featured Projects
 
