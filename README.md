@@ -1,157 +1,342 @@
-<div align="center">
+# 🚀 Chandan Maurya - Developer Portfolio
 
-# 👋 Hi, I'm Chandan Maurya
+A modern, responsive, and interactive portfolio built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS** to showcase my work in **XR (AR/VR/MR)**, **Backend Development**, **AI**, and **Digital Twin** technologies.
 
-### 🚀 XR Engineer | Backend Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Unity+XR+Developer;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;AI+Agent+Developer;Spatial+Computing+Engineer;Building+Immersive+Learning+Platforms" />
-
-<p>
-<a href="https://linkedin.com/in/chandanmaur">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:cmaurya46@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://chandanmauryaportfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=DeenuMaurya&color=blue&style=flat-square"/>
-
-</div>
+> Designed to highlight enterprise-grade projects, technical expertise, and open-source contributions with a clean and modern user experience.
 
 ---
 
-# 👨‍💻 About Me
+## 🌐 Live Demo
 
-- 🥽 XR Engineer with **13+ years** of experience
-- 🤖 Building AI-powered immersive learning platforms
-- 💻 Currently learning Backend Development
-- 🌍 Passionate about Spatial Computing & Digital Twins
-- ☁️ Exploring Cloud & System Design
+🔗 Coming Soon
 
 ---
 
-# 🚀 Tech Stack
+## ✨ Features
 
-## Languages 
-
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+- 🎨 Modern UI with Dark & Light Mode
+- ⚡ Built with Next.js 15 & React 19
+- 📱 Fully Responsive Design
+- 🎭 Smooth Animations using Framer Motion
+- 🌙 Theme Switching
+- 🖱️ Interactive Cursor Effects
+- 🚀 Performance Optimized
+- 📂 Dynamic Project Showcase
+- 📊 GitHub Statistics Integration
+- 📈 GitHub Contribution Graph
+- 📝 Blog Section
+- 📄 Resume Download
+- 📬 Contact Form
+- 🌐 SEO Optimized
+- ♿ Accessibility Friendly
+- 🔥 Fast Loading Experience
 
 ---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Shadcn UI
+- Lucide React
+
+## 3D & Graphics
+
+- Three.js
+- React Three Fiber
+- Drei
 
 ## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
---- 
+## Authentication
 
-## Database
+- JWT
+- bcrypt
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+## APIs
 
----
+- REST API
+- GitHub API
+- Email API
 
-## XR Development
+## Deployment
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![OpenXR](https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge)
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge)
-![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge)
-
---- 
-
-## AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0099ff?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge) 
-
---- 
-
-
-# 🌟 Featured Projects
-
-*Client work — code private under NDA, described at a high level.*
-
-| Project | Description |
-|----------|-------------|
-| 🥽 VR Medical Training | Multiplayer immersive healthcare simulation |
-| 🔥 Welding VR Simulator | Real-time industrial welding training |
-| 🏫 School ERP | Node.js + MongoDB management system |
-| 👟 Nike AR Campaign | Interactive AR brand experience |
-| 🤖 AI Learning Platform | AI-powered eLearning system |
-| 🌍 Digital Twin | Smart industrial visualization |
+- Vercel
+- GitHub Actions
 
 ---
 
-# 📈 GitHub Stats
+# 📁 Project Structure
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeenuMaurya&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=DeenuMaurya&theme=tokyonight"/>
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeenuMaurya&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeenuMaurya&theme=react-dark"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=DeenuMaurya&theme=tokyonight"/>
-</p>
+```
+portfolio/
+│
+├── app/
+├── components/
+│   ├── ui/
+│   ├── layout/
+│   ├── sections/
+│   └── animations/
+│
+├── hooks/
+├── lib/
+├── public/
+│   ├── images/
+│   ├── icons/
+│   └── resume/
+│
+├── styles/
+├── types/
+├── utils/
+└── README.md
+```
 
 ---
 
-# 📫 Connect With Me
+# 📸 Website Sections
 
-<p align="center">
-
-<a href="https://linkedin.com/in/chandanmaur">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:cmaurya46@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/DeenuMaurya">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+- Hero
+- About
+- Skills
+- Experience
+- Projects
+- Services
+- Open Source
+- GitHub Stats
+- Certifications
+- Blog
+- Contact
+- Footer
 
 ---
 
-<div align="center">
+# 🎯 Skills Showcase
 
-### ⭐ "Building the future through AI, XR & Scalable Backend Systems."
+### XR Development
 
-</div>
+- Unity
+- C#
+- AR Foundation
+- Meta XR SDK
+- OpenXR
+- MRTK
+- Photon Fusion
+- Photon PUN
+- WebXR
+
+### Backend Development
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- TypeScript
+- JWT
+- REST API
+- Socket.IO
+
+### AI
+
+- OpenAI API
+- AI Chatbots
+- AI Assistants
+- AI Automation
+- Prompt Engineering
+
+### Cloud
+
+- AWS
+- Vercel
+- GitHub Actions
+
+---
+
+# 📂 Featured Projects
+
+- 🥽 Medical VR Training Simulator
+- 🔥 Welding VR Simulator
+- 🏭 Industrial Safety Training
+- 🏫 School ERP Platform
+- 👟 Nike WebAR Campaign
+- 🌍 Digital Twin Platform
+- 📦 APK Management System
+- 📚 eLearning Platform
+- 🤖 AI-powered XR Applications
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Navigate to the project directory
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Open your browser
+
+```
+http://localhost:3000
+```
+
+---
+
+# 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+# ▶️ Start Production
+
+```bash
+npm start
+```
+
+---
+
+# 🧹 Lint
+
+```bash
+npm run lint
+```
+
+---
+
+# 🎨 Design Highlights
+
+- Glassmorphism
+- Gradient Backgrounds
+- Animated Cards
+- Interactive Timeline
+- Hover Effects
+- Scroll Animations
+- Smooth Page Transitions
+- Responsive Layout
+- Modern Typography
+
+---
+
+# 📈 GitHub Integration
+
+The portfolio automatically displays:
+
+- GitHub Profile
+- Public Repositories
+- Followers
+- Following
+- Contribution Graph
+- Language Statistics
+- Pinned Repositories
+- Recent Activity
+
+---
+
+# 📬 Contact
+
+Feel free to reach out for collaboration, freelance work, or exciting opportunities.
+
+- 💼 LinkedIn
+- 💻 GitHub
+- 📧 Email
+
+---
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature/new-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add new feature"
+```
+
+4. Push the branch
+
+```bash
+git push origin feature/new-feature
+```
+
+5. Open a Pull Request
+
+---
+
+# 🗺️ Roadmap
+
+- [ ] Admin Dashboard
+- [ ] CMS Integration
+- [ ] Project Filtering
+- [ ] Search Functionality
+- [ ] Blog CMS
+- [ ] Internationalization (i18n)
+- [ ] Visitor Analytics
+- [ ] Testimonials
+- [ ] Project Case Studies
+- [ ] AI Chat Assistant
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository
+- 🍴 Fork it
+- 🛠️ Contribute
+- 📢 Share it with others
+
+---
+
+# 👨‍💻 Author
+
+## Chandan Maurya
+
+**XR Engineer • Backend Developer • AI Enthusiast**
+
+Building immersive AR/VR/MR experiences, scalable backend systems, AI-powered applications, and enterprise-grade digital solutions.
+
+> *"Turning ideas into immersive digital experiences through code, creativity, and innovation."*
