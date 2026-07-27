@@ -137,9 +137,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deenumaurya&theme=onedark&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DeenuMaurya&theme=tokyonight"/>
 </p>
 
 ---
