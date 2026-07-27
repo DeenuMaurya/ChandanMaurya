@@ -233,28 +233,6 @@ I enjoy creating products that combine **AI**, **Backend Engineering**, and **XR
 
 ---
 
-# 🎯 Learning Journey
-
-```text
-████████████████████████░░░░  Unity
-
-██████████████████████░░░░░░  Node.js
-
-█████████████████████░░░░░░░  TypeScript
-
-████████████████░░░░░░░░░░░░  MongoDB
-
-██████████████████░░░░░░░░░░  React
-
-████████████████░░░░░░░░░░░░  Next.js
-
-██████████████░░░░░░░░░░░░░░  AWS
-
-██████████████░░░░░░░░░░░░░░  AI Agents
-```
-
----
-
 # 🌱 2026 Goals
 
 - 🚀 Build Production SaaS Products
