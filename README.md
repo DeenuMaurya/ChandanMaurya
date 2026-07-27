@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Chandan Maurya
 
-### 🚀 XR Engineer | Backend Developer | AI Enthusiast 
+### 🚀 XR Engineer | Backend Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Unity+XR+Developer;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;AI+Agent+Developer;Spatial+Computing+Engineer;Building+Immersive+Learning+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Unity+XR+Developer;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;AI+Agent+Developer;Spatial+Computing+Engineer;Building+Immersive+Learning+Platforms" />
 
 <p>
 <a href="https://linkedin.com/in/chandanmaur">
@@ -46,8 +46,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
----
-
 ## Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -55,15 +53,11 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
----
-
 ## Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
 
 ## XR Development
 
@@ -72,15 +66,11 @@
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge)
 ![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge)
 
----
-
 ## AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0099ff?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-
----
 
 ## Cloud
 
@@ -91,25 +81,24 @@
 
 # 🌟 Featured Projects
 
+*Client work — code private under NDA, described at a high level.*
+
 | Project | Description |
 |----------|-------------|
 | 🥽 VR Medical Training | Multiplayer immersive healthcare simulation |
 | 🔥 Welding VR Simulator | Real-time industrial welding training |
-| 🏫 School ERP | Node.js + MongoDB Management System |
-| 👟 Nike AR Campaign | Interactive AR Brand Experience |
-| 🤖 AI Learning Platform | AI-powered eLearning System |
-| 🌍 Digital Twin | Smart Industrial Visualization |
+| 🏫 School ERP | Node.js + MongoDB management system |
+| 👟 Nike AR Campaign | Interactive AR brand experience |
+| 🤖 AI Learning Platform | AI-powered eLearning system |
+| 🌍 Digital Twin | Smart industrial visualization |
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeenuMaurya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DeenuMaurya&theme=tokyonight"/>
-
+<img height="170" src="https://streak-stats.demolab.com/?user=DeenuMaurya&theme=tokyonight"/>
 </p>
 
 ---
@@ -117,9 +106,7 @@
 # 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeenuMaurya&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -127,9 +114,7 @@
 # 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeenuMaurya&theme=react-dark"/>
-
 </p>
 
 ---
@@ -139,18 +124,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DeenuMaurya&theme=tokyonight"/>
 </p>
-
----
-
-# 📚 Currently Learning
-
-- ✅ Node.js
-- ✅ Express.js
-- ✅ MongoDB
-- ✅ TypeScript
-- ✅ AWS
-- ✅ AI Agents
-- ✅ System Design
 
 ---
 
