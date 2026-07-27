@@ -8,13 +8,13 @@
 
 <p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<a href="https://github.com/DeenuMaurya">
+<img src="https://komarev.com/ghpvc/?username=DeenuMaurya&style=for-the-badge&color=blue"/>
 </a>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/DeenuMaurya?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/DeenuMaurya?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
@@ -187,9 +187,9 @@ class Developer {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeenuMaurya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeenuMaurya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -199,7 +199,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DeenuMaurya&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -209,7 +209,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeenuMaurya&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -219,7 +219,7 @@ class Developer {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DeenuMaurya&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -242,7 +242,7 @@ I enjoy creating products that combine **AI**, **Backend Engineering**, and **XR
 
 █████████████████████░░░░░░░  TypeScript
 
-████████████████████░░░░░░░░  MongoDB
+████████████████░░░░░░░░░░░░  MongoDB
 
 ██████████████████░░░░░░░░░░  React
 
@@ -271,15 +271,15 @@ I enjoy creating products that combine **AI**, **Backend Engineering**, and **XR
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/chandanmaur">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:cmaurya46@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://chandanmauryaportfolio.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
